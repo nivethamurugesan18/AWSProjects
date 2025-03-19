@@ -24,5 +24,7 @@ Takeaways:
 Simplified infrastructure reduces overhead and enhances scalability 🚀
 Focus on writing code, not managing servers 💻
 Cost optimization through pay-per-use models 📊
+<img width="1025" alt="Screenshot 2025-03-18 at 7 05 51 PM" src="https://github.com/user-attachments/assets/16cd9f2f-0571-4e9a-92c7-16182b7030e9" />
+<img width="847" alt="Screenshot 2025-03-18 at 5 15 24 PM" src="https://github.com/user-attachments/assets/c5000ea8-8055-467b-a064-08bc219c99fd" />
 
 
